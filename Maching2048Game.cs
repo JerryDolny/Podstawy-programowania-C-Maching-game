@@ -30,8 +30,12 @@
             this.nRows = this.Board.GetLength(0);
             this.nCols = this.Board.GetLength(1);
             this.Score = 0;
-            //TEST GIT branch 1
-            //Test G 2
+            //TEST GIT Desctop app branch 1
+            //Test G 2 
+            //Test G 3
+            //Test G 4
         }
+
+
 
         
